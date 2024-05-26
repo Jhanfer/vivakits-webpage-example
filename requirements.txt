@@ -2,3 +2,4 @@ pip-update==0.4.1
 pygame==2.5.2
 reflex-carousel==0.0.1
 reflex-motion==0.0.1
+reflex==0.5.1
